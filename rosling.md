@@ -1,0 +1,2 @@
+# Rosling Questions
+Answer to Q1: Even though the Sweden students were very intelligent, the survey showed that they made pre-assumptions and generalizations about a given country based on the their surrounding enviornment (ie. because a country is in Africa it is poor country), making them only score an average of 1.8/5 on the survey. In the other hand, the  Chimapanzees  scored  higher, merely because they didn't make pre-assumptions and guessed on the 50-50 bases.
