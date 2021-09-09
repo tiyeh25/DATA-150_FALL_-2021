@@ -3,4 +3,4 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 ![data science (4)](https://user-images.githubusercontent.com/89987898/132282132-db931eb2-9a6b-490c-a1f7-f4f3bd917b34.jpg)
 
-[Blumenstock Response (9/7/21)](https://github.com/tiyeh25/DATA-150_FALL_2021/blob/main/Blomenstock_Final_Response.md)
+[Blumenstock Response (9/7/21)](Blomenstock_Final_Response.md)
