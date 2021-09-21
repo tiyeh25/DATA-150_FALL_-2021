@@ -9,4 +9,4 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 [Rosling Questions (9/9/21)](rosling.md)
 
 
-[Barder Questions (9/21/21)] (barder.md)
+[Barder Questions (9/21/21)](barder.md)
