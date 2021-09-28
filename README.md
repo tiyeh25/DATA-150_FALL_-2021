@@ -13,3 +13,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Informal Assignment 1 (9/23/21)](informalassignment1.md)
+
+
+[Introduction Essay for Professor Brewer (9/28/21)](brewerintro.md)
