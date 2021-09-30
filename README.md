@@ -16,3 +16,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Introduction Essay for Professor Brewer (9/28/21)](brewerintro.md)
+
+
+[Gapminder In-Class Essay (9/30/21)](gapminder.md)
