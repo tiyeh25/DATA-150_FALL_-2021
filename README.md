@@ -19,3 +19,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Gapminder In-Class Essay (9/30/21)](gapminder.md)
+
+
+[Annotated Bibliography (10/3/21)](annotatedbibliography.md)
