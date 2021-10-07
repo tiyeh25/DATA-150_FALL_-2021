@@ -22,3 +22,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Annotated Bibliography (10/3/21)](annotatedbibliography.md)
+
+
+[Our World In Data In-Class Essay (10/7/21)](ourworldindata.md)
