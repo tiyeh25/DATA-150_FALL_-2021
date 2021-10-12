@@ -25,3 +25,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Our World In Data In-Class Essay (10/7/21)](ourworldindata.md)
+
+
+[Hidden Debt Behind China’s Belt and Road Initiative In-Class Essay (10/12/21)](hiddendebt.md)
