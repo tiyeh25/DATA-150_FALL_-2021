@@ -28,3 +28,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Hidden Debt Behind China’s Belt and Road Initiative In-Class Essay (10/12/21)](hiddendebt.md)
+
+
+[Evidence of Abundant Progress In-Class Essay (10/21/21](dataabundance.md)
