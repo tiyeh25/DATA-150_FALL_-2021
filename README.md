@@ -31,3 +31,7 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Evidence of Abundant Progress In-Class Essay (10/21/21](dataabundance.md)
+
+
+
+[Literature Review (10/24/21)](literaturereview.md)
