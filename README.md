@@ -35,3 +35,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Literature Review (10/24/21)](literaturereview.md)
+
+
+[Data Science and its Applicability to the Financial Field In-Class Essay (10/28/21)](datascienceandfinance.md)
