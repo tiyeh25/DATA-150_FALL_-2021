@@ -38,3 +38,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Data Science and its Applicability to the Financial Field In-Class Essay (10/28/21)](datascienceandfinance.md)
+
+
+[Human Development Index In-Class Essay (11/2/21)](humandevelopmentindex.md)
