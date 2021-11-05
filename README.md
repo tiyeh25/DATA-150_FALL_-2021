@@ -41,3 +41,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Human Development Index In-Class Essay (11/2/21)](humandevelopmentindex.md)
+
+
+[Future Data Science Topics In-Class Essay (11/4/21)](futuredatasciencetopics.md)
