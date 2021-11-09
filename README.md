@@ -44,3 +44,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Future Data Science Topics In-Class Essay (11/4/21)](futuredatasciencetopics.md)
+
+
+[Facebook's Deletion of Facial-recognition Data In-Class Essay (11/9/21)](facebook.md)
