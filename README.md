@@ -47,3 +47,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Facebook's Deletion of Facial-recognition Data In-Class Essay (11/9/21)](facebook.md)
+
+
+[Covid-19 and its Effect on the Financial Field (11/11/21)](covidandfinance.md)
