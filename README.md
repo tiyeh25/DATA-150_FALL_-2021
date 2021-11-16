@@ -50,3 +50,6 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 
 [Covid-19 and its Effect on the Financial Field In-Class Essay (11/11/21)](covidandfinance.md)
+
+
+[Implications Behind Self-Driving Cars In-Class Essay (11/16/21)](selfdrivingcars.md)
