@@ -54,4 +54,4 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 
 [Implications Behind Self-Driving Cars In-Class Essay (11/16/21)](selfdrivingcars.md)
 
-[Methodological Investigation (11/22/21)](MethodologicalInvestigation.docx)
+[Methodological Investigation (11/22/21)](MethodologicalInvestigation.docx.md)
