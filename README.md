@@ -60,4 +60,4 @@ Welcome to my Git Hub page. I am a freshman at William and Mary and am looking t
 [Presentation Abstract (12/9/21)](abstract.md)
 
 
-[Presentation (12/9/21)](https://github.com/tiyeh25/DATA150_FALL_2021/blob/Data%20Science%20and%20Its%20Applicability%20to%20Assess%20Malnutrition.pdf)
+[Presentation (12/9/21)](https://github.com/tiyeh25/DATA150_FALL_2021/blob/main/Data%20Science%20and%20Its%20Applicability%20to%20Assess%20Malnutrition.pdf)
